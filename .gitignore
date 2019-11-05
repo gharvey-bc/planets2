@@ -1,4 +1,5 @@
 /results
 *.dat
-
+.Rhistory
+.RData
 .Rproj.user
